@@ -1,0 +1,16 @@
+.container {
+    margin-inline: auto;
+    background-color: #FBF7E3;
+    padding: 1.5em 1.5em;
+    border-radius: 50px;
+    display: flex;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    padding-inline: 2em;
+}
+
+
+
